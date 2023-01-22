@@ -211,3 +211,7 @@ body {
 .modal-content {
     background-color: rgba(217, 217, 217, 1);
 }
+
+.modal-title {
+    font-size: 1.8em;
+}
