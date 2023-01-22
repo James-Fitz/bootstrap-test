@@ -203,3 +203,11 @@ body {
 .features .page-header {
     margin-bottom: 25px;
 }
+
+#signUpModal {
+    background-color: rgba(75, 75, 75, 0.8);
+}
+
+.modal-content {
+    background-color: rgba(217, 217, 217, 1);
+}
